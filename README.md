@@ -1,6 +1,7 @@
 # game_2048
 
 A new Flutter project.
+![2048](https://user-images.githubusercontent.com/55682574/235063564-6d927df7-30cd-422c-b79e-339ec40d626c.png)
 
 ## Getting Started
 
